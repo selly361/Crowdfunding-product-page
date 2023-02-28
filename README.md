@@ -1,6 +1,6 @@
 # Frontend Mentor - Crowdfunding product page solution
 
-![Design preview for the Calculator app coding challenge](./public/desktop-preview.jpg)
+![Design preview for the Calculator app coding challenge](./public/images/desktop-preview.jpg)
 
 ## Table of contents
 
