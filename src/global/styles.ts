@@ -18,6 +18,9 @@ export const GlobalStyles = createGlobalStyle`
   /* Set core body defaults */
   body {
     min-height: 100vh;
+    width: 100vw;
+    background: url('images/image-hero-desktop.jpg') no-repeat;
+    background-position: top;
   }
 
   /* Make images easier to work with */

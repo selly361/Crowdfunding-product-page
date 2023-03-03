@@ -1,8 +1,12 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+
+import GlobalStyles from 'global/styles';
 
 function App() {
   return (
-    null
+    <Fragment>
+      <GlobalStyles />
+    </Fragment>
   );
 }
 
