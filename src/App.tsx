@@ -7,7 +7,7 @@ function App() {
   return (
     <Fragment>
       <GlobalStyles />
-      
+      <Header />
     </Fragment>
   );
 }
