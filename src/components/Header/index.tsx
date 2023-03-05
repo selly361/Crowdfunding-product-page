@@ -1,8 +1,18 @@
+import { Nav, StyledHeader, StyledNav } from './Header.styles'
+
+import { LogoIcon } from 'assets'
 import React from 'react'
 
 function Header() {
   return (
-    <div>Header</div>
+    <StyledHeader>
+      <LogoIcon />
+      <StyledNav>
+        <Nav href="#">About</Nav>
+        <Nav href="#">Discover</Nav>
+        <Nav href="#">Get Started</Nav>
+      </StyledNav>
+    </StyledHeader>
   )
 }
 
